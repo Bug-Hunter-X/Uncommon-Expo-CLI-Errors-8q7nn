@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to manage an Expo project and involves issues with the project's configuration, dependencies, or interactions with underlying native modules (like those for Android or iOS).  It's often triggered by seemingly minor changes or updates, and the error messages themselves can be cryptic or unhelpful.
